@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mk7488@rit.edu**
 
-- ⚡ Fun fact **I think I am Raconteur**
+- ⚡ Fun fact **I think I am a Raconteur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

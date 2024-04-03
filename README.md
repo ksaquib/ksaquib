@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ksaquib.surge.sh/](https://ksaquib.surge.sh/)
 
-- 📝 I regularly write articles on [https://medium.com/@ksaquib]([https://medium.com/@ksaquib/unlocking-efficiency-the-game-changing-method-to-time-your-python-functions-you-wish-you-knew-d7266c0552bf](https://medium.com/@ksaquib))
+- 📝 I regularly write articles on [https://medium.com/@ksaquib]([https://medium.com/@ksaquib](https://medium.com/@ksaquib))
 
 - 💬 Ask me about **React, Javascript, Angular, Java, Python**
 

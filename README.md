@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Next.js, GO**
 
+- Exploring 3D Concepts with GSAP and Three.js: [Reverse Engineered Apple Website Project](https://apple_3d_demo.surge.sh/) 
+
 - 👨‍💻 All of my projects are available at [https://ksaquib.surge.sh/](https://ksaquib.surge.sh/)
 
 - 📝 I regularly write articles on [https://medium.com/@ksaquib](https://medium.com/@ksaquib)

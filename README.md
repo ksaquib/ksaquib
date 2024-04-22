@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ksaquib](https://medium.com/@ksaquib)
 
-- 💬 Ask me about **React, Javascript, Angular, Java, Python**
+- 💬 Ask me about **React, Javascript, Angular, Java, Python, SQL, Neo4j**
 
 - 📫 How to reach me **mk7488@rit.edu**
 

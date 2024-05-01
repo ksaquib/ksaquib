@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Saquib Khan</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Saquib Khan</h1>
 <h3 align="center">Goal-oriented Software Developer with strong commitment to collaboration and solutions-oriented problem-solving. Used various web design software to develop customer-focused websites and designs. Committed to high standards of web design, user experience, usability and speed for multiple types of end-users.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksaquib&label=Profile%20views&color=0e75b6&style=flat" alt="ksaquib" /> </p>
